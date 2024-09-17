@@ -27,3 +27,4 @@ st.title("Pokemon Dta Analytica")
 st.subheader("🦚")
 
 
+
